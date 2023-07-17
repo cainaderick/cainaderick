@@ -35,7 +35,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/cainaderick/cainaderick/output/snake.svg" alt="Snake animation" />
-
-###
