@@ -24,7 +24,7 @@
   <a href="https://instagram.com/derick_silva19?igshid=NGExMmI2YTkyZg==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
-  <a href = "mailto:cainaderick@gmail.com" target='_blank'>
+  <a href="mailto:cainaderick@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/cain%C3%A3-derick-41b456187/" target="_blank">
@@ -34,6 +34,8 @@
 
 ###
 
-![snake animation](https://github.com/cainaderick/cainaderick/blob/output/github-contribution-grid-snake2.svg)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cainaderick/cainaderick/output/snake.svg" alt="Snake animation" />
 
 ###
