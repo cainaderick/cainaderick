@@ -34,6 +34,6 @@
 
 ###
 
-![snake animation](https://github.com/cainaderick/cainaderick/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/cainaderick/cainaderick/blob/output/github-contribution-grid-snake2.gif)
 
 ###
