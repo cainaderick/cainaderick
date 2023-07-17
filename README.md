@@ -34,6 +34,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cainaderick/cainaderick/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/cainaderick/cainaderick/blob/output/github-contribution-grid-snake2.svg)
 
 ###
